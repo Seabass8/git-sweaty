@@ -10996,5 +10996,57 @@
     "start_date_local": "2026-03-22T08:11:27",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-27",
+    "distance": 5909.919921875,
+    "elevation_gain": 26.0,
+    "id": "22316559745",
+    "moving_time": 576.0,
+    "name": "Zwift - Pacer Group Ride with Maria",
+    "raw_activity_type": "virtual_ride",
+    "raw_type": "virtual_ride",
+    "start_date_local": "2026-03-27T15:03:33",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-27",
+    "distance": 12755.1103515625,
+    "elevation_gain": 101.0,
+    "id": "22316798529",
+    "moving_time": 1218.0,
+    "name": "Zwift - TT: Stage 6a: Zwift Games: Epiloch",
+    "raw_activity_type": "virtual_ride",
+    "raw_type": "virtual_ride",
+    "start_date_local": "2026-03-27T15:19:51",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-27",
+    "distance": 10940.2099609375,
+    "elevation_gain": 115.0,
+    "id": "22317038232",
+    "moving_time": 1369.0,
+    "name": "Zwift - Watopia",
+    "raw_activity_type": "virtual_ride",
+    "raw_type": "virtual_ride",
+    "start_date_local": "2026-03-27T15:40:37",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-27",
+    "distance": 15792.6796875,
+    "elevation_gain": 131.0,
+    "id": "22317289443",
+    "moving_time": 1252.0,
+    "name": "Zwift - Race: Stage 6b: Zwift Games: Crit Cade (B)",
+    "raw_activity_type": "virtual_ride",
+    "raw_type": "virtual_ride",
+    "start_date_local": "2026-03-27T16:11:15",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
