@@ -7649,6 +7649,33 @@
       "type": "VirtualRide",
       "url": "https://connect.garmin.com/modern/activity/22317289443",
       "year": 2026
+    },
+    {
+      "date": "2026-03-30",
+      "hour": 19,
+      "name": "Zwift - Group Ride: Stage 3 - The Zwift Big Spin",
+      "subtype": "virtual_ride",
+      "type": "VirtualRide",
+      "url": "https://connect.garmin.com/modern/activity/22351783235",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-02",
+      "hour": 7,
+      "name": "Gorinchem Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/22379266983",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-02",
+      "hour": 12,
+      "name": "Papendrecht Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/22381363812",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -13805,6 +13832,16 @@
           "distance": 45616.94921875,
           "elevation_gain": 63.0,
           "moving_time": 6560.544006347656
+        },
+        "2026-04-02": {
+          "activity_ids": [
+            "22379266983",
+            "22381363812"
+          ],
+          "count": 2,
+          "distance": 45300.83984375,
+          "elevation_gain": 77.0,
+          "moving_time": 6255.64599609375
         }
       },
       "Run": {
@@ -14038,6 +14075,15 @@
           "distance": 45397.919921875,
           "elevation_gain": 373.0,
           "moving_time": 4415.0
+        },
+        "2026-03-30": {
+          "activity_ids": [
+            "22351783235"
+          ],
+          "count": 1,
+          "distance": 26748.80078125,
+          "elevation_gain": 150.0,
+          "moving_time": 2302.0
         }
       },
       "WeightTraining": {
@@ -14054,7 +14100,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/Seabass1990",
-  "generated_at": "2026-03-27T15:59:08.003084+00:00",
+  "generated_at": "2026-04-02T16:05:11.257781+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/Seabass1990",
   "repo": "Seabass8/git-sweaty",

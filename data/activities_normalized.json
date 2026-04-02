@@ -11048,5 +11048,44 @@
     "start_date_local": "2026-03-27T16:11:15",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-30",
+    "distance": 26748.80078125,
+    "elevation_gain": 150.0,
+    "id": "22351783235",
+    "moving_time": 2302.0,
+    "name": "Zwift - Group Ride: Stage 3 - The Zwift Big Spin",
+    "raw_activity_type": "virtual_ride",
+    "raw_type": "virtual_ride",
+    "start_date_local": "2026-03-30T19:30:39",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-02",
+    "distance": 22544.830078125,
+    "elevation_gain": 34.0,
+    "id": "22379266983",
+    "moving_time": 3171.1829833984375,
+    "name": "Gorinchem Cycling",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-04-02T07:55:42",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-02",
+    "distance": 22756.009765625,
+    "elevation_gain": 43.0,
+    "id": "22381363812",
+    "moving_time": 3084.4630126953125,
+    "name": "Papendrecht Cycling",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-04-02T12:21:38",
+    "type": "Ride",
+    "year": 2026
   }
 ]
