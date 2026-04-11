@@ -11087,5 +11087,57 @@
     "start_date_local": "2026-04-02T12:21:38",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 48330.01171875,
+    "elevation_gain": 893.0,
+    "id": "22409224451",
+    "moving_time": 5790.0,
+    "name": "Zwift - Three Sisters in Watopia",
+    "raw_activity_type": "virtual_ride",
+    "raw_type": "virtual_ride",
+    "start_date_local": "2026-04-04T19:55:04",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-08",
+    "distance": 22867.30078125,
+    "elevation_gain": 38.0,
+    "id": "22448973844",
+    "moving_time": 3307.0,
+    "name": "Gorinchem Cycling",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-04-08T08:08:16",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-08",
+    "distance": 22663.58984375,
+    "elevation_gain": 41.0,
+    "id": "22452821186",
+    "moving_time": 3260.385009765625,
+    "name": "Papendrecht Cycling",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-04-08T14:21:18",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-10",
+    "distance": 19860.650390625,
+    "elevation_gain": 209.0,
+    "id": "22480104185",
+    "moving_time": 1754.0,
+    "name": "Zwift - Race: Zwift Crit Racing Club - Glasgow Reverse (C)",
+    "raw_activity_type": "virtual_ride",
+    "raw_type": "virtual_ride",
+    "start_date_local": "2026-04-10T19:42:17",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
