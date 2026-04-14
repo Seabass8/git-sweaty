@@ -11139,5 +11139,18 @@
     "start_date_local": "2026-04-10T19:42:17",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-13",
+    "distance": 40394.73046875,
+    "elevation_gain": 292.0,
+    "id": "22514472295",
+    "moving_time": 3584.0,
+    "name": "Zwift - Group Ride: Zwift NL Kick Off your week ride (C)",
+    "raw_activity_type": "virtual_ride",
+    "raw_type": "virtual_ride",
+    "start_date_local": "2026-04-13T19:40:36",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
