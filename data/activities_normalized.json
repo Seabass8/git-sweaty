@@ -11152,5 +11152,18 @@
     "start_date_local": "2026-04-13T19:40:36",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-17",
+    "distance": 32210.220703125,
+    "elevation_gain": 49.0,
+    "id": "22562687750",
+    "moving_time": 3889.0,
+    "name": "Gorinchem Road Cycling",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-04-17T20:05:59",
+    "type": "Ride",
+    "year": 2026
   }
 ]
