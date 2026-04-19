@@ -11165,5 +11165,18 @@
     "start_date_local": "2026-04-17T20:05:59",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 9915.4404296875,
+    "elevation_gain": 26.540000021457672,
+    "id": "22583429914",
+    "moving_time": 3342.9869689941406,
+    "name": "Vestingloop Dordrecht",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-04-19T14:50:49",
+    "type": "Run",
+    "year": 2026
   }
 ]
