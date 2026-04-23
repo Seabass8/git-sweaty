@@ -11191,5 +11191,18 @@
     "start_date_local": "2026-04-21T15:21:11",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-23",
+    "distance": 50028.44921875,
+    "elevation_gain": 1143.0,
+    "id": "22629339445",
+    "moving_time": 8909.809020996094,
+    "name": "Tandel Road Cycling",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-04-23T11:00:35",
+    "type": "Ride",
+    "year": 2026
   }
 ]

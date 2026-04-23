@@ -7748,6 +7748,15 @@
       "type": "Ride",
       "url": "https://connect.garmin.com/modern/activity/22606461875",
       "year": 2026
+    },
+    {
+      "date": "2026-04-23",
+      "hour": 11,
+      "name": "Tandel Road Cycling",
+      "subtype": "road_biking",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/22629339445",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -13942,6 +13951,15 @@
           "distance": 23801.7109375,
           "elevation_gain": 593.0,
           "moving_time": 4456.0
+        },
+        "2026-04-23": {
+          "activity_ids": [
+            "22629339445"
+          ],
+          "count": 1,
+          "distance": 50028.44921875,
+          "elevation_gain": 1143.0,
+          "moving_time": 8909.809020996094
         }
       },
       "Run": {
@@ -14236,7 +14254,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/Seabass1990",
-  "generated_at": "2026-04-22T16:14:00.171673+00:00",
+  "generated_at": "2026-04-23T16:47:23.797899+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/Seabass1990",
   "repo": "Seabass8/git-sweaty",
