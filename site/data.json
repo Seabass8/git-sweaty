@@ -7775,6 +7775,15 @@
       "type": "Ride",
       "url": "https://connect.garmin.com/modern/activity/22798059592",
       "year": 2026
+    },
+    {
+      "date": "2026-05-16",
+      "hour": 8,
+      "name": "Chouffe Classic 160km",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/22900572204",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -13988,6 +13997,15 @@
           "distance": 45282.529296875,
           "elevation_gain": 71.0,
           "moving_time": 6567.997985839844
+        },
+        "2026-05-16": {
+          "activity_ids": [
+            "22900572204"
+          ],
+          "count": 1,
+          "distance": 156103.703125,
+          "elevation_gain": 793.2800000011921,
+          "moving_time": 19516.78692626953
         }
       },
       "Run": {
@@ -14282,7 +14300,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/Seabass1990",
-  "generated_at": "2026-05-15T16:54:40.677601+00:00",
+  "generated_at": "2026-05-16T16:02:26.182988+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/Seabass1990",
   "repo": "Seabass8/git-sweaty",
