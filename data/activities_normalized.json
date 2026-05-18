@@ -11243,5 +11243,31 @@
     "start_date_local": "2026-05-16T08:26:11",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-18",
+    "distance": 22512.5703125,
+    "elevation_gain": 29.709999978542328,
+    "id": "22920461756",
+    "moving_time": 3609.0,
+    "name": "Gorinchem Cycling",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-05-18T08:26:09",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-18",
+    "distance": 22539.7109375,
+    "elevation_gain": 47.15999999642372,
+    "id": "22924717922",
+    "moving_time": 3264.3920288085938,
+    "name": "Papendrecht Cycling",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-05-18T16:21:14",
+    "type": "Ride",
+    "year": 2026
   }
 ]
