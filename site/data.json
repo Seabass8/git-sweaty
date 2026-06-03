@@ -7802,6 +7802,24 @@
       "type": "Ride",
       "url": "https://connect.garmin.com/modern/activity/22924717922",
       "year": 2026
+    },
+    {
+      "date": "2026-06-03",
+      "hour": 9,
+      "name": "Gorinchem Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/23117374478",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-03",
+      "hour": 16,
+      "name": "Papendrecht Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/23117374721",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -14034,6 +14052,16 @@
           "distance": 45052.28125,
           "elevation_gain": 76.86999997496605,
           "moving_time": 6873.392028808594
+        },
+        "2026-06-03": {
+          "activity_ids": [
+            "23117374478",
+            "23117374721"
+          ],
+          "count": 2,
+          "distance": 45009.740234375,
+          "elevation_gain": 119.13999998569489,
+          "moving_time": 6706.5489501953125
         }
       },
       "Run": {
@@ -14328,7 +14356,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/Seabass1990",
-  "generated_at": "2026-06-02T18:47:25.078630+00:00",
+  "generated_at": "2026-06-03T18:51:17.098689+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/Seabass1990",
   "repo": "Seabass8/git-sweaty",
